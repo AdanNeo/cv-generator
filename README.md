@@ -199,5 +199,5 @@ El repositorio en GitHub está conectado directamente con Vercel (frontend) y Ra
 
 ## Autor
 
-Adán Mesías Picón  
+Mesias Picon Adan 
 Ingeniero de Sistemas — Universidad ESAN
