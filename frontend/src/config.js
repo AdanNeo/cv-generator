@@ -1,1 +1,1 @@
-export const API_BASE = 'http://localhost:8000'
+export const API_BASE = 'https://cv-generator-production-9a01.up.railway.app'
